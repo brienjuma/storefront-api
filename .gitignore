@@ -1,0 +1,18 @@
+# Source Code Editor
+.vscode
+
+# Virtual Environment
+.venv
+
+# pipenv
+Pipfile.lock
+
+# Python
+__pycache__
+.pyc
+
+# Django
+.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
